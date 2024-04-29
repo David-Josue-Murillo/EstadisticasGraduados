@@ -1,0 +1,118 @@
+{
+    "faeco": [
+        {
+            "id": "1",
+            "title": "Administración de empresas y contabilidad",
+            "year": 2017,
+            "amout": 67
+        },
+        {
+            "id": "2",
+            "title": "Administración de empresas y contabilidad",
+            "year": 2018,
+            "amout": 109
+        },
+        {
+            "id": "3",
+            "title": "Administración de empresas y contabilidad",
+            "year": 2019,
+            "amout": 140
+        },
+        {
+            "id": "4",
+            "title": "Administración de empresas y contabilidad",
+            "year": 2020,
+            "amout": 29
+        },
+        {
+            "id": "5",
+            "title": "Administración de empresas y contabilidad",
+            "year": 2021,
+            "amout": 91
+        },
+        {
+            "id": "6",
+            "title": "Administración de empresas y contabilidad",
+            "year": 2022,
+            "amout": 128
+        }
+        
+    ],
+    
+    "fac": [
+        {
+            "id": "1",
+            "title": "Administración pública",
+            "year": 2017,
+            "amout": 32
+        },
+        {
+            "id": "2",
+            "title": "Administración pública",
+            "year": 2018,
+            "amout": 35
+        },
+        {
+            "id": "3",
+            "title": "Administración pública",
+            "year": 2019,
+            "amout": 24
+        },
+        {
+            "id": "4",
+            "title": "Administración pública",
+            "year": 2020,
+            "amout": 8
+        },
+        {
+            "id": "5",
+            "title": "Administración pública",
+            "year": 2021,
+            "amout": 30
+        },
+        {
+            "id": "6",
+            "title": "Administración pública",
+            "year": 2022,
+            "amout": 39
+        }
+    ],
+    "fadup": [
+        {
+            "id": "1",
+            "title": "Arquitectura",
+            "year": 2017,
+            "amout": 31
+        },
+        {
+            "id": "2",
+            "title": "Arquitectura",
+            "year": 2018,
+            "amout": 14
+        },
+        {
+            "id": "3",
+            "title": "Arquitectura",
+            "year": 2019,
+            "amout": 19
+        },
+        {
+            "id": "4",
+            "title": "Arquitectura",
+            "year": 2020,
+            "amout": 2
+        },
+        {
+            "id": "5",
+            "title": "Arquitectura",
+            "year": 2021,
+            "amout": 34
+        },
+        {
+            "id": "6",
+            "title": "Arquitectura",
+            "year": 2022,
+            "amout": 39
+        }
+    ]
+}

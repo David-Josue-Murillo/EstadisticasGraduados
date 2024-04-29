@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./src/css/style.css">
+    <link href="./index.css" rel="stylesheet">
+    <title>Vite App</title>
+</head>
+
+<body class="background">
+    <div class="flex-row md:flex md:flex-col md:min-h-screen">
+        <header class="flex-row w-full h-16 md:px-10 md:flex md:justify-between md:items-center md:h-28">
+            <!-- Titulo y logo de la pagina-->
+            <div class="flex h-5/6 justify-around md:justify-start">
+                <!-- Logo -->
+                <div class="h-full md:ml-2">
+                    <div class="header__img flex justify-center">
+                        <img src="./src/img/logoFiec.png" class="h-full">
+                    </div>
+                </div>
+
+                <!-- Titulo -->
+                <div class=" h-full flex flex-col justify-center text-center md:ml-5">
+                    <h1 class="text-family text-2xl text-center font-bold text-green-cane md:text-5xl">CRUV FIEC</h1>
+                    <p class="font-bold text-lime-100 md:text-2xl">Universidad de Panamá</p>
+                </div>
+            </div>
+
+            <!-- Enlaces directo de la pagina-->
+            <div class="flex flex-col mt-3 md:flex-row md:h-5/6 md:justify-between md:items-center md:px-2">
+                <div class="flex justify-around mb-3 md:mt-3 md:mr-10">
+                    <a class="font-bold text-sm text-white hover:text-green-cane font-bree md:px-6 md:text-xl"
+                        href="#">Facultades</a>
+                    <a class="font-bold text-sm text-white hover:text-green-cane font-bree md:px-6 md:text-xl"
+                        href="#">Graficos</a>
+                    <a class="font-bold text-sm text-white hover:text-green-cane font-bree md:px-6 md:text-xl"
+                        href="#">Cruv</a>
+                </div>
+
+                <div class="flex justify-center mb-2 md:flex md:w-64">
+                    <input
+                        class="border border-green-cane placeholder:text-gray-600 xl px-3 py-1 md:border-2 md:border-green-cane md:w-full md:py-1 md:px-3 md:rounded-md focus:outline-none focus:ring-2 focus:ring-purple-600"
+                        type="text" placeholder="Buscar facultad">
+                </div>
+            </div>
+        </header>
+
+        <!-- Contenido de la pagina -->
+        <main class="flex justify-center place-content-center mt-10">
+            <div class="flex flex-wrap items-center text-center mr-5 w-1/4">
+                <h1 class="text-family text-green-cane  text-shadow-white text-7xl">Graficos de <span class="text-white text-shadow-greenCane">Graduados</span></h1>
+            </div>
+            <div class="">
+                <img class="ml-10" src="./src/img/grafica_1.png" alt="">
+            </div>
+        </main>
+
+        <!-- Gráficas por facultad -->
+        <section class="flex flex-col w-full gap-2 mt-20 mb-20">
+            <header class="w-full text-center">
+                <h1 class="text-family text-7xl text-green-cane">Facultades</h1>
+            </header>
+
+            <!-- Creando un slider -->
+            <nav class="flex flex-col justify-center gap-4 mt-5 w-full">
+                <div class="flex w-full justify-center gap-4 px-20">
+                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                        <div class="bg-white hover:bg-green-300 border rounded-[150%]">
+                            <a href=""><img class="w-full h-full hover:scale-[1.1]" src="./src/img/Log_Fce.png" alt=""></a>
+                        </div>
+                    </section>
+                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                        <div class="bg-white hover:bg-green-300 border rounded-[50%]">
+                            <a href=""><img class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fad.png" alt=""></a>
+                        </div>
+                    </section>
+                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                        <div class="bg-white hover:bg-green-300 border rounded-[50%]">
+                            <a href=""><img class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Face.png"
+                                    alt=""></a>
+                        </div>
+                    </section>
+                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                        <a href=""><img class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Faeco.gif" alt=""></a>
+                    </section>
+                    <section class="w-1/6 px-5 h-full  cursor-pointer">
+                        <div class="bg-white hover:bg-green-300 border rounded-[50%]">
+                            <a href=""><img class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fah.png" alt=""></a>
+                        </div>
+                    </section>
+                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                        <div class="bg-white hover:bg-green-300 border rounded-[50%]">
+                            <a href=""><img class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fbea.png"
+                                    alt=""></a>
+                        </div>
+                    </section>
+                </div>
+
+                <div class="flex w-full justify-center items-center gap-4 px-20">
+                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                        <div class="bg-white hover:bg-green-300 border rounded-[50%]">
+                            <a href=""><img class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fca.png" alt=""></a>
+                        </div>
+                    </section>
+                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                        <div class="bg-white hover:bg-green-300 border rounded-[50%]">
+                            <a href=""><img class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fcso.png"
+                                    alt=""></a>
+                        </div>
+                    </section>
+                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                        <div class="bg-white hover:bg-green-300 border rounded-[50%]">
+                            <a href=""><img class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fdcp.png"
+                                    alt=""></a>
+                        </div>
+                    </section>
+                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                        <div class="bg-white hover:bg-green-300 border rounded-[50%] h-[170px]">
+                            <a href=""><img class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_FEAP.png"
+                                    alt=""></a>
+                        </div>
+                    </section>
+                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                        <div class="bg-white hover:bg-green-300 border rounded-[50%]">
+                            <a href=""><img class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fcnet.png"
+                                    alt=""></a>
+                        </div>
+                    </section>
+                </div>
+
+                <div class="flex w-full justify-center gap-4 px-20">
+                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                        <div class="bg-white hover:bg-green-300 border rounded-[50%]">
+                            <a href=""><img class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fenf.png"
+                                    alt=""></a>
+                        </div>
+                    </section>
+                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                        <div class="bg-white hover:bg-green-300 border rounded-[50%]">
+                            <a href=""><img class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Ffarm.png"
+                                    alt=""></a>
+                        </div>
+                    </section>
+                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                        <div class="bg-white hover:bg-green-300 border rounded-[50%]">
+                            <a href=""><img class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fmed.png"
+                                    alt=""></a>
+                        </div>
+                    </section>
+                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                        <div class="bg-white hover:bg-green-300 border rounded-[50%]">
+                            <a href=""><img class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fmv.png" alt=""></a>
+                        </div>
+                    </section>
+                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                        <div class="bg-white hover:bg-green-300 border rounded-[50%]">
+                            <a href=""><img class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fodon.png"
+                                    alt=""></a>
+                        </div>
+                    </section>
+                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                        <div class="bg-white hover:bg-green-300 border rounded-[50%]">
+                            <a href=""><img class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fpsi.png" alt=""></a>
+                        </div>
+                    </section>
+                </div>
+            </nav>
+        </section>
+
+        <section class="flex justify-center mb-40">
+            <div id="container" class="w-[1000px] h-[400px] ">
+
+            </div>
+        </section>
+    </div>
+
+    <div id="app"></div>
+    <script type="module" src="/main.js"></script>
+</body>
+
+</html>
