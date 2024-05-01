@@ -115,5 +115,550 @@
             "year": 2022,
             "amout": 39
         }
+    ],
+
+    "fbea": [
+        {
+            "id": "1",
+            "title": "Bellas Artes",
+            "year": 2017,
+            "amout": 1
+        },
+        {
+            "id": "2",
+            "title": "Bellas Artes",
+            "year": 2018,
+            "amout": 10
+        },
+        {
+            "id": "3",
+            "title": "Bellas Artes",
+            "year": 2019,
+            "amout": 7
+        },
+        {
+            "id": "4",
+            "title": "Bellas Artes",
+            "year": 2020,
+            "amout": 1
+        },
+        {
+            "id": "5",
+            "title": "Bellas Artes",
+            "year": 2021,
+            "amout": 6
+        },
+        {
+            "id": "6",
+            "title": "Bellas Artes",
+            "year": 2022,
+            "amout": 3
+        }
+    ],
+
+    "fca": [
+        {
+            "id": "1",
+            "title": "Ciencias Agropecuarias",
+            "year": 2017,
+            "amout": 14
+        },
+        {
+            "id": "2",
+            "title": "Ciencias Agropecuarias",
+            "year": 2018,
+            "amout": 21
+        },
+        {
+            "id": "3",
+            "title": "Ciencias Agropecuarias",
+            "year": 2019,
+            "amout": 4
+        },
+        {
+            "id": "4",
+            "title": "Ciencias Agropecuarias",
+            "year": 2020,
+            "amout": 1
+        },
+        {
+            "id": "5",
+            "title": "Ciencias Agropecuarias",
+            "year": 2021,
+            "amout": 10
+        },
+        {
+            "id": "6",
+            "title": "Ciencias Agropecuarias",
+            "year": 2022,
+            "amout": 7
+        }
+    ],
+
+    "fce": [
+        {
+            "id": "1",
+            "title": "Ciencias de la Educación",
+            "year": 2017,
+            "amout": 376
+        },
+        {
+            "id": "2",
+            "title": "Ciencias de la Educación",
+            "year": 2018,
+            "amout": 340
+        },
+        {
+            "id": "3",
+            "title": "Ciencias de la Educación",
+            "year": 2019,
+            "amout": 229
+        },
+        {
+            "id": "4",
+            "title": "Ciencias de la Educación",
+            "year": 2020,
+            "amout": 35
+        },
+        {
+            "id": "5",
+            "title": "Ciencias de la Educación",
+            "year": 2021,
+            "amout": 220
+        },
+        {
+            "id": "6",
+            "title": "Ciencias de la Educación",
+            "year": 2022,
+            "amout": 244
+        }
+    ],
+
+    "fcnet": [
+        {
+            "id": "1",
+            "title": "Ciencias Naturales, Exactas y Tecnología",
+            "year": 2017,
+            "amout": 23
+        },
+        {
+            "id": "2",
+            "title": "Ciencias Naturales, Exactas y Tecnología",
+            "year": 2018,
+            "amout": 18
+        },
+        {
+            "id": "3",
+            "title": "Ciencias Naturales, Exactas y Tecnología",
+            "year": 2019,
+            "amout": 20
+        },
+        {
+            "id": "4",
+            "title": "Ciencias Naturales, Exactas y Tecnología",
+            "year": 2020,
+            "amout": 4
+        },
+        {
+            "id": "5",
+            "title": "Ciencias Naturales, Exactas y Tecnología",
+            "year": 2021,
+            "amout": 12
+        },
+        {
+            "id": "6",
+            "title": "Ciencias Naturales, Exactas y Tecnología",
+            "year": 2022,
+            "amout": 22
+        }
+    ],
+    
+    "fcso": [
+        {
+            "id": "1",
+            "title": "Comunicación Social",
+            "year": 2017,
+            "amout": 376
+        },
+        {
+            "id": "2",
+            "title": "Comunicación Social",
+            "year": 2018,
+            "amout": 340
+        },
+        {
+            "id": "3",
+            "title": "Comunicación Social",
+            "year": 2019,
+            "amout": 229
+        },
+        {
+            "id": "4",
+            "title": "Comunicación Social",
+            "year": 2020,
+            "amout": 35
+        },
+        {
+            "id": "5",
+            "title": "Comunicación Social",
+            "year": 2021,
+            "amout": 220
+        },
+        {
+            "id": "6",
+            "title": "Comunicación Social",
+            "year": 2022,
+            "amout": 244
+        }
+    ],
+
+    "fdcp": [
+        {
+            "id": "1",
+            "title": "Derechos y Ciencias Políticas",
+            "year": 2017,
+            "amout": 28
+        },
+        {
+            "id": "2",
+            "title": "Derechos y Ciencias Políticas",
+            "year": 2018,
+            "amout": 23
+        },
+        {
+            "id": "3",
+            "title": "Derechos y Ciencias Políticas",
+            "year": 2019,
+            "amout": 32
+        },
+        {
+            "id": "4",
+            "title": "Derechos y Ciencias Políticas",
+            "year": 2020,
+            "amout": 3
+        },
+        {
+            "id": "5",
+            "title": "Derechos y Ciencias Políticas",
+            "year": 2021,
+            "amout": 43
+        },
+        {
+            "id": "6",
+            "title": "Derechos y Ciencias Políticas",
+            "year": 2022,
+            "amout": 40
+        }
+    ],
+    "face": [
+        {
+            "id": "1",
+            "title": "Economía",
+            "year": 2017,
+            "amout": 34
+        },
+        {
+            "id": "2",
+            "title": "Economía",
+            "year": 2018,
+            "amout": 48
+        },
+        {
+            "id": "3",
+            "title": "Economía",
+            "year": 2019,
+            "amout": 42
+        },
+        {
+            "id": "4",
+            "title": "Economía",
+            "year": 2020,
+            "amout": 4
+        },
+        {
+            "id": "5",
+            "title": "Economía",
+            "year": 2021,
+            "amout": 15
+        },
+        {
+            "id": "6",
+            "title": "Economía",
+            "year": 2022,
+            "amout": 53
+        }
+    ],
+
+    "fenf": [
+        {
+            "id": "1",
+            "title": "Enfermería",
+            "year": 2017,
+            "amout": 92
+        },
+        {
+            "id": "2",
+            "title": "Enfermería",
+            "year": 2018,
+            "amout": 58
+        },
+        {
+            "id": "3",
+            "title": "Enfermería",
+            "year": 2019,
+            "amout": 4295
+        },
+        {
+            "id": "4",
+            "title": "Enfermería",
+            "year": 2020,
+            "amout": 48
+        },
+        {
+            "id": "5",
+            "title": "Enfermería",
+            "year": 2021,
+            "amout": 28
+        },
+        {
+            "id": "6",
+            "title": "Enfermería",
+            "year": 2022,
+            "amout": 38
+        }
+    ],
+
+    "ffarm": [
+        {
+            "id": "1",
+            "title": "Farmacia",
+            "year": 2017,
+            "amout": 36
+        },
+        {
+            "id": "2",
+            "title": "Farmacia",
+            "year": 2018,
+            "amout": 25
+        },
+        {
+            "id": "3",
+            "title": "Farmacia",
+            "year": 2019,
+            "amout": 50
+        },
+        {
+            "id": "4",
+            "title": "Farmacia",
+            "year": 2020,
+            "amout": 13
+        },
+        {
+            "id": "5",
+            "title": "Farmacia",
+            "year": 2021,
+            "amout": 41
+        },
+        {
+            "id": "6",
+            "title": "Farmacia",
+            "year": 2022,
+            "amout": 64
+        }
+    ],
+
+    "fah": [
+        {
+            "id": "1",
+            "title": "Humanidades",
+            "year": 2017,
+            "amout": 95
+        },
+        {
+            "id": "2",
+            "title": "Humanidades",
+            "year": 2018,
+            "amout": 108
+        },
+        {
+            "id": "3",
+            "title": "Humanidades",
+            "year": 2019,
+            "amout": 112
+        },
+        {
+            "id": "4",
+            "title": "Humanidades",
+            "year": 2020,
+            "amout": 15
+        },
+        {
+            "id": "5",
+            "title": "Humanidades",
+            "year": 2021,
+            "amout": 125
+        },
+        {
+            "id": "6",
+            "title": "Humanidades",
+            "year": 2022,
+            "amout": 161
+        }
+    ],
+
+    "fiec": [
+        {
+            "id": "1",
+            "title": "Informática, Electronica y Comunación",
+            "year": 2017,
+            "amout": 15
+        },
+        {
+            "id": "2",
+            "title": "Informática, Electronica y Comunación",
+            "year": 2018,
+            "amout": 19
+        },
+        {
+            "id": "3",
+            "title": "Informática, Electronica y Comunación",
+            "year": 2019,
+            "amout": 15
+        },
+        {
+            "id": "4",
+            "title": "Informática, Electronica y Comunación",
+            "year": 2020,
+            "amout": 2
+        },
+        {
+            "id": "5",
+            "title": "Informática, Electronica y Comunación",
+            "year": 2021,
+            "amout": 16
+        },
+        {
+            "id": "6",
+            "title": "Informática, Electronica y Comunación",
+            "year": 2022,
+            "amout": 11
+        }
+    ],
+
+    "fmed": [
+        {
+            "id": "1",
+            "title": "Medicina",
+            "year": 2017,
+            "amout": 1
+        },
+        {
+            "id": "2",
+            "title": "Medicina",
+            "year": 2018,
+            "amout": 0
+        },
+        {
+            "id": "3",
+            "title": "Medicina",
+            "year": 2019,
+            "amout": 0
+        },
+        {
+            "id": "4",
+            "title": "Medicina",
+            "year": 2020,
+            "amout": 0
+        },
+        {
+            "id": "5",
+            "title": "Medicina",
+            "year": 2021,
+            "amout": 0
+        },
+        {
+            "id": "6",
+            "title": "Medicina",
+            "year": 2022,
+            "amout": 1
+        }
+    ],
+
+    "fodon": [
+        {
+            "id": "1",
+            "title": "Odontología",
+            "year": 2017,
+            "amout": 14
+        },
+        {
+            "id": "2",
+            "title": "Odontología",
+            "year": 2018,
+            "amout": 3
+        },
+        {
+            "id": "3",
+            "title": "Odontología",
+            "year": 2019,
+            "amout": 4
+        },
+        {
+            "id": "4",
+            "title": "Odontología",
+            "year": 2020,
+            "amout": 1
+        },
+        {
+            "id": "5",
+            "title": "Odontología",
+            "year": 2021,
+            "amout": 9
+        },
+        {
+            "id": "6",
+            "title": "Odontología",
+            "year": 2022,
+            "amout": 7
+        }
+    ],
+
+    "fpsi": [
+        {
+            "id": "1",
+            "title": "Psicología",
+            "year": 2017,
+            "amout": 7
+        },
+        {
+            "id": "2",
+            "title": "Psicología",
+            "year": 2018,
+            "amout": 9
+        },
+        {
+            "id": "3",
+            "title": "Psicología",
+            "year": 2019,
+            "amout": 8
+        },
+        {
+            "id": "4",
+            "title": "Psicología",
+            "year": 2020,
+            "amout": 1
+        },
+        {
+            "id": "5",
+            "title": "Psicología",
+            "year": 2021,
+            "amout": 7
+        },
+        {
+            "id": "6",
+            "title": "Psicología",
+            "year": 2022,
+            "amout": 15
+        }
     ]
 }

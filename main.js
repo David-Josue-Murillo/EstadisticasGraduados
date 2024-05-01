@@ -38,7 +38,7 @@ const facultades = {
     fenf,
     ffarm,
     fmed,
-    fmv,
+    fiec,
     fodon,
     fpsi
 }
