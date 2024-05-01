@@ -1,5 +1,6 @@
 import './index.css'
 import { obtenerDatos } from './src/js/API.js';
+import { handleCLick } from './src/js/charts.js';
 import * as echarts from 'echarts';
 
 // Obteniendo elementos del DOM
@@ -21,14 +22,32 @@ const fmv = document.getElementById('fmv');
 const fodon = document.getElementById('fodon');
 const fpsi = document.getElementById('fpsi');
 
-
-const dato = 'faeco';
-async function obtenerDatosAPI() {
-    const datos = await obtenerDatos(dato);
-    console.log(datos);
+// Creando un objeto con los elementos del DOM
+const facultades = {
+    fce,
+    fad,
+    face,
+    faeco,
+    fah,
+    fbea,
+    fca,
+    fcso,
+    fdcp,
+    feap,
+    fcnet,
+    fenf,
+    ffarm,
+    fmed,
+    fmv,
+    fodon,
+    fpsi
 }
 
-obtenerDatosAPI();
+// Agregando un evento a cada elemento del objeto
+Object.values(facultades).forEach(facultad => {
+    facultad.addEventListener('click', handleCLick);
+});
+
 
 // Creando el gráfico con echart
 let myChart = echarts.init(document.getElementById('graficaGeneral'), 'dark');

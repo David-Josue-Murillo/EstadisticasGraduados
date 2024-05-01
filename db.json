@@ -39,7 +39,7 @@
         
     ],
     
-    "fac": [
+    "feap": [
         {
             "id": "1",
             "title": "Administración pública",
@@ -77,7 +77,8 @@
             "amout": 39
         }
     ],
-    "fadup": [
+    
+    "fad": [
         {
             "id": "1",
             "title": "Arquitectura",
