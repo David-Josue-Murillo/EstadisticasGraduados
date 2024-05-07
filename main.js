@@ -44,9 +44,7 @@ const facultades = {
 }
 
 // Agregando un evento a cada elemento del objeto
-Object.values(facultades).forEach(facultad => {
-    facultad.addEventListener('click', handleCLick);
-});
+Object.values(facultades).forEach(facultad => {facultad.addEventListener('click', handleCLick);});
 
 
 // Creando el gráfico con echart

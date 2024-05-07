@@ -1,9 +1,6 @@
 import * as echarts from 'echarts';
 import { obtenerDatos } from './API.js';
 
-
-
-
 //Eventos
 export function handleCLick(e) {
     e.preventDefault();
