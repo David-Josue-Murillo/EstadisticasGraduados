@@ -1,5 +1,6 @@
 import * as echarts from 'echarts';
 import { obtenerDatos } from './API.js';
+import { handleBtn } from './subCharts.js';
 
 //Eventos
 export function handleCLick(e) {
@@ -13,39 +14,52 @@ export function handleCLick(e) {
 // Obteniendo API
 async function obtenerDatosAPI(datos) {
     const resultado = await obtenerDatos(datos);
+    
 
     let titles = "";
     let years = [];
     let amounts = [];
+    let nomCarrera = [];
+    let carrera = {};
 
 
     resultado.forEach(dato => {
-        const { year, title } = dato;
+        const { year, title, carreras } = dato;
 
         titles = title;
         Object.entries(year).forEach(([key, value]) => {
             years.push(key);
             amounts.push(value);
         });
+
+        Object.entries(carreras).forEach(([key, value]) => {
+            nomCarrera.push(key);
+            carrera[key] = value;
+        });
     });
-
-    console.log(years);
-    console.log(amounts);
-
+    
     // Agregando Botones
-    /*const divBotones = document.getElementById('btn_graficas') 
+    const divBotones = document.getElementById('btn_graficas') 
     divBotones.classList.add('flex', 'justify-center', 'items-center', 'gap-8', 'mt-4');
     divBotones.innerHTML = `
-        <button id="lae" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">${carrera[6][0]}</button>
-        <button id="lc" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">${carrera[6][1]}</button>
-        <button id="laf" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">${carrera[6][2]}</button>
-    `;*/    
+        <button id="${nomCarrera[0]}" name="${datos}" class="bg-blue-500 uppercase hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">${nomCarrera[0]}</button>
+        <button id="${nomCarrera[1]}" name="${datos}" class="bg-blue-500 uppercase hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">${nomCarrera[1]}</button>
+        <button id="${nomCarrera[2]}" name="${datos}" class="bg-blue-500 uppercase hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">${nomCarrera[2]}</button>
+    `;
+
+    // Evento para los botones
+    const btnCarrera = document.querySelectorAll('button');
+    btnCarrera.forEach(btn => {
+        btn.addEventListener('click', handleBtn);
+    });
 
 
     //Haciendo la grafica con los datos
     let chartDom = document.getElementById('contenedor');
     let myChart = echarts.init(chartDom, 'dark');
     let option;
+
+
 
     option = {
         //Titulo de la grafica
@@ -112,6 +126,5 @@ async function obtenerDatosAPI(datos) {
     };
 
     option && myChart.setOption(option);
-
 }
 
