@@ -3,662 +3,253 @@
         {
             "id": "1",
             "title": "Administración de empresas y contabilidad",
-            "year": 2017,
-            "amout": 67
-        },
-        {
-            "id": "2",
-            "title": "Administración de empresas y contabilidad",
-            "year": 2018,
-            "amout": 109
-        },
-        {
-            "id": "3",
-            "title": "Administración de empresas y contabilidad",
-            "year": 2019,
-            "amout": 140
-        },
-        {
-            "id": "4",
-            "title": "Administración de empresas y contabilidad",
-            "year": 2020,
-            "amout": 29
-        },
-        {
-            "id": "5",
-            "title": "Administración de empresas y contabilidad",
-            "year": 2021,
-            "amout": 91
-        },
-        {
-            "id": "6",
-            "title": "Administración de empresas y contabilidad",
-            "year": 2022,
-            "amout": 128
+            "year": {
+                "2017": 67,
+                "2018": 109,
+                "2019": 140,
+                "2020": 29,
+                "2021": 91,
+                "2022": 128
+            }
         }
-        
     ],
     
     "feap": [
         {
-            "id": "1",
-            "title": "Administración pública",
-            "year": 2017,
-            "amout": 32
-        },
-        {
             "id": "2",
             "title": "Administración pública",
-            "year": 2018,
-            "amout": 35
-        },
-        {
-            "id": "3",
-            "title": "Administración pública",
-            "year": 2019,
-            "amout": 24
-        },
-        {
-            "id": "4",
-            "title": "Administración pública",
-            "year": 2020,
-            "amout": 8
-        },
-        {
-            "id": "5",
-            "title": "Administración pública",
-            "year": 2021,
-            "amout": 30
-        },
-        {
-            "id": "6",
-            "title": "Administración pública",
-            "year": 2022,
-            "amout": 39
+            "year": {
+                "2017": 32,
+                "2018": 35,
+                "2019": 24,
+                "2020": 8,
+                "2021": 30,
+                "2022": 39
+            }
         }
     ],
     
     "fad": [
         {
-            "id": "1",
-            "title": "Arquitectura",
-            "year": 2017,
-            "amout": 31
-        },
-        {
-            "id": "2",
-            "title": "Arquitectura",
-            "year": 2018,
-            "amout": 14
-        },
-        {
             "id": "3",
             "title": "Arquitectura",
-            "year": 2019,
-            "amout": 19
-        },
-        {
-            "id": "4",
-            "title": "Arquitectura",
-            "year": 2020,
-            "amout": 2
-        },
-        {
-            "id": "5",
-            "title": "Arquitectura",
-            "year": 2021,
-            "amout": 34
-        },
-        {
-            "id": "6",
-            "title": "Arquitectura",
-            "year": 2022,
-            "amout": 39
+            "year": {
+                "2017": 31,
+                "2018": 14,
+                "2019": 19,
+                "2020": 2,
+                "2021": 34,
+                "2022": 39
+            }
         }
     ],
 
     "fbea": [
         {
-            "id": "1",
-            "title": "Bellas Artes",
-            "year": 2017,
-            "amout": 1
-        },
-        {
-            "id": "2",
-            "title": "Bellas Artes",
-            "year": 2018,
-            "amout": 10
-        },
-        {
-            "id": "3",
-            "title": "Bellas Artes",
-            "year": 2019,
-            "amout": 7
-        },
-        {
             "id": "4",
             "title": "Bellas Artes",
-            "year": 2020,
-            "amout": 1
-        },
-        {
-            "id": "5",
-            "title": "Bellas Artes",
-            "year": 2021,
-            "amout": 6
-        },
-        {
-            "id": "6",
-            "title": "Bellas Artes",
-            "year": 2022,
-            "amout": 3
+            "year": {
+                "2017": 1,
+                "2018": 10,
+                "2019": 7,
+                "2020": 1,
+                "2021": 6,
+                "2022": 3
+            }
         }
     ],
 
     "fca": [
         {
-            "id": "1",
-            "title": "Ciencias Agropecuarias",
-            "year": 2017,
-            "amout": 14
-        },
-        {
-            "id": "2",
-            "title": "Ciencias Agropecuarias",
-            "year": 2018,
-            "amout": 21
-        },
-        {
-            "id": "3",
-            "title": "Ciencias Agropecuarias",
-            "year": 2019,
-            "amout": 4
-        },
-        {
-            "id": "4",
-            "title": "Ciencias Agropecuarias",
-            "year": 2020,
-            "amout": 1
-        },
-        {
             "id": "5",
             "title": "Ciencias Agropecuarias",
-            "year": 2021,
-            "amout": 10
-        },
-        {
-            "id": "6",
-            "title": "Ciencias Agropecuarias",
-            "year": 2022,
-            "amout": 7
+            "year": {
+                "2017": 14,
+                "2018": 21,
+                "2019": 4,
+                "2020": 1,
+                "2021": 10,
+                "2022": 7
+            }
         }
     ],
 
     "fce": [
         {
-            "id": "1",
-            "title": "Ciencias de la Educación",
-            "year": 2017,
-            "amout": 376
-        },
-        {
-            "id": "2",
-            "title": "Ciencias de la Educación",
-            "year": 2018,
-            "amout": 340
-        },
-        {
-            "id": "3",
-            "title": "Ciencias de la Educación",
-            "year": 2019,
-            "amout": 229
-        },
-        {
-            "id": "4",
-            "title": "Ciencias de la Educación",
-            "year": 2020,
-            "amout": 35
-        },
-        {
-            "id": "5",
-            "title": "Ciencias de la Educación",
-            "year": 2021,
-            "amout": 220
-        },
-        {
             "id": "6",
             "title": "Ciencias de la Educación",
-            "year": 2022,
-            "amout": 244
+            "year": {
+                "2017": 376,
+                "2018": 340,
+                "2019": 229,
+                "2020": 35,
+                "2021": 220,
+                "2022": 244
+            }
         }
     ],
 
     "fcnet": [
         {
-            "id": "1",
+            "id": "7",
             "title": "Ciencias Naturales, Exactas y Tecnología",
-            "year": 2017,
-            "amout": 23
-        },
-        {
-            "id": "2",
-            "title": "Ciencias Naturales, Exactas y Tecnología",
-            "year": 2018,
-            "amout": 18
-        },
-        {
-            "id": "3",
-            "title": "Ciencias Naturales, Exactas y Tecnología",
-            "year": 2019,
-            "amout": 20
-        },
-        {
-            "id": "4",
-            "title": "Ciencias Naturales, Exactas y Tecnología",
-            "year": 2020,
-            "amout": 4
-        },
-        {
-            "id": "5",
-            "title": "Ciencias Naturales, Exactas y Tecnología",
-            "year": 2021,
-            "amout": 12
-        },
-        {
-            "id": "6",
-            "title": "Ciencias Naturales, Exactas y Tecnología",
-            "year": 2022,
-            "amout": 22
+            "year": {
+                "2017": 23,
+                "2018": 18,
+                "2019": 20,
+                "2020": 4,
+                "2021": 12,
+                "2022": 22
+            }
         }
     ],
     
     "fcso": [
         {
-            "id": "1",
+            "id": "8",
             "title": "Comunicación Social",
-            "year": 2017,
-            "amout": 376
-        },
-        {
-            "id": "2",
-            "title": "Comunicación Social",
-            "year": 2018,
-            "amout": 340
-        },
-        {
-            "id": "3",
-            "title": "Comunicación Social",
-            "year": 2019,
-            "amout": 229
-        },
-        {
-            "id": "4",
-            "title": "Comunicación Social",
-            "year": 2020,
-            "amout": 35
-        },
-        {
-            "id": "5",
-            "title": "Comunicación Social",
-            "year": 2021,
-            "amout": 220
-        },
-        {
-            "id": "6",
-            "title": "Comunicación Social",
-            "year": 2022,
-            "amout": 244
+            "year": {
+                "2017": 376,
+                "2018": 340,
+                "2019": 229,
+                "2020": 35,
+                "2021": 220,
+                "2022": 244
+            }
         }
     ],
 
     "fdcp": [
         {
-            "id": "1",
+            "id": "9",
             "title": "Derechos y Ciencias Políticas",
-            "year": 2017,
-            "amout": 28
-        },
-        {
-            "id": "2",
-            "title": "Derechos y Ciencias Políticas",
-            "year": 2018,
-            "amout": 23
-        },
-        {
-            "id": "3",
-            "title": "Derechos y Ciencias Políticas",
-            "year": 2019,
-            "amout": 32
-        },
-        {
-            "id": "4",
-            "title": "Derechos y Ciencias Políticas",
-            "year": 2020,
-            "amout": 3
-        },
-        {
-            "id": "5",
-            "title": "Derechos y Ciencias Políticas",
-            "year": 2021,
-            "amout": 43
-        },
-        {
-            "id": "6",
-            "title": "Derechos y Ciencias Políticas",
-            "year": 2022,
-            "amout": 40
+            "year": {
+                "2017": 28,
+                "2018": 23,
+                "2019": 32,
+                "2020": 3,
+                "2021": 43,
+                "2022": 40
+            }
         }
     ],
     "face": [
         {
-            "id": "1",
+            "id": "10",
             "title": "Economía",
-            "year": 2017,
-            "amout": 34
-        },
-        {
-            "id": "2",
-            "title": "Economía",
-            "year": 2018,
-            "amout": 48
-        },
-        {
-            "id": "3",
-            "title": "Economía",
-            "year": 2019,
-            "amout": 42
-        },
-        {
-            "id": "4",
-            "title": "Economía",
-            "year": 2020,
-            "amout": 4
-        },
-        {
-            "id": "5",
-            "title": "Economía",
-            "year": 2021,
-            "amout": 15
-        },
-        {
-            "id": "6",
-            "title": "Economía",
-            "year": 2022,
-            "amout": 53
+            "year": {
+                "2017": 34,
+                "2018": 48,
+                "2019": 42,
+                "2020": 4,
+                "2021": 15,
+                "2022": 53
+            }
         }
     ],
 
     "fenf": [
         {
-            "id": "1",
+            "id": "11",
             "title": "Enfermería",
-            "year": 2017,
-            "amout": 92
-        },
-        {
-            "id": "2",
-            "title": "Enfermería",
-            "year": 2018,
-            "amout": 58
-        },
-        {
-            "id": "3",
-            "title": "Enfermería",
-            "year": 2019,
-            "amout": 4295
-        },
-        {
-            "id": "4",
-            "title": "Enfermería",
-            "year": 2020,
-            "amout": 48
-        },
-        {
-            "id": "5",
-            "title": "Enfermería",
-            "year": 2021,
-            "amout": 28
-        },
-        {
-            "id": "6",
-            "title": "Enfermería",
-            "year": 2022,
-            "amout": 38
+            "year": {
+                "2017": 92,
+                "2018": 58,
+                "2019": 4295,
+                "2020": 48,
+                "2021": 28,
+                "2022": 38
+            }
         }
     ],
 
     "ffarm": [
         {
-            "id": "1",
+            "id": "12",
             "title": "Farmacia",
-            "year": 2017,
-            "amout": 36
-        },
-        {
-            "id": "2",
-            "title": "Farmacia",
-            "year": 2018,
-            "amout": 25
-        },
-        {
-            "id": "3",
-            "title": "Farmacia",
-            "year": 2019,
-            "amout": 50
-        },
-        {
-            "id": "4",
-            "title": "Farmacia",
-            "year": 2020,
-            "amout": 13
-        },
-        {
-            "id": "5",
-            "title": "Farmacia",
-            "year": 2021,
-            "amout": 41
-        },
-        {
-            "id": "6",
-            "title": "Farmacia",
-            "year": 2022,
-            "amout": 64
+            "year": {
+                "2017": 36,
+                "2018": 25,
+                "2019": 50,
+                "2020": 13,
+                "2021": 41,
+                "2022": 64
+            }
         }
     ],
 
     "fah": [
         {
-            "id": "1",
+            "id": "13",
             "title": "Humanidades",
-            "year": 2017,
-            "amout": 95
-        },
-        {
-            "id": "2",
-            "title": "Humanidades",
-            "year": 2018,
-            "amout": 108
-        },
-        {
-            "id": "3",
-            "title": "Humanidades",
-            "year": 2019,
-            "amout": 112
-        },
-        {
-            "id": "4",
-            "title": "Humanidades",
-            "year": 2020,
-            "amout": 15
-        },
-        {
-            "id": "5",
-            "title": "Humanidades",
-            "year": 2021,
-            "amout": 125
-        },
-        {
-            "id": "6",
-            "title": "Humanidades",
-            "year": 2022,
-            "amout": 161
+            "year": {
+                "2017": 95,
+                "2018": 108,
+                "2019": 112,
+                "2020": 15,
+                "2021": 125,
+                "2022": 161
+            }
         }
     ],
 
     "fiec": [
         {
-            "id": "1",
+            "id": "14",
             "title": "Informática, Electronica y Comunación",
-            "year": 2017,
-            "amout": 15
-        },
-        {
-            "id": "2",
-            "title": "Informática, Electronica y Comunación",
-            "year": 2018,
-            "amout": 19
-        },
-        {
-            "id": "3",
-            "title": "Informática, Electronica y Comunación",
-            "year": 2019,
-            "amout": 15
-        },
-        {
-            "id": "4",
-            "title": "Informática, Electronica y Comunación",
-            "year": 2020,
-            "amout": 2
-        },
-        {
-            "id": "5",
-            "title": "Informática, Electronica y Comunación",
-            "year": 2021,
-            "amout": 16
-        },
-        {
-            "id": "6",
-            "title": "Informática, Electronica y Comunación",
-            "year": 2022,
-            "amout": 11
+            "year": {
+                "2017": 15,
+                "2018": 19,
+                "2019": 15,
+                "2020": 2,
+                "2021": 16,
+                "2022": 11
+            }
         }
     ],
 
     "fmed": [
         {
-            "id": "1",
+            "id": "15",
             "title": "Medicina",
-            "year": 2017,
-            "amout": 1
-        },
-        {
-            "id": "2",
-            "title": "Medicina",
-            "year": 2018,
-            "amout": 0
-        },
-        {
-            "id": "3",
-            "title": "Medicina",
-            "year": 2019,
-            "amout": 0
-        },
-        {
-            "id": "4",
-            "title": "Medicina",
-            "year": 2020,
-            "amout": 0
-        },
-        {
-            "id": "5",
-            "title": "Medicina",
-            "year": 2021,
-            "amout": 0
-        },
-        {
-            "id": "6",
-            "title": "Medicina",
-            "year": 2022,
-            "amout": 1
+            "year": {
+                "2017": 1,
+                "2018": 0,
+                "2019": 0,
+                "2020": 0,
+                "2021": 0,
+                "2022": 1
+            }
         }
     ],
 
     "fodon": [
         {
-            "id": "1",
+            "id": "16",
             "title": "Odontología",
-            "year": 2017,
-            "amout": 14
-        },
-        {
-            "id": "2",
-            "title": "Odontología",
-            "year": 2018,
-            "amout": 3
-        },
-        {
-            "id": "3",
-            "title": "Odontología",
-            "year": 2019,
-            "amout": 4
-        },
-        {
-            "id": "4",
-            "title": "Odontología",
-            "year": 2020,
-            "amout": 1
-        },
-        {
-            "id": "5",
-            "title": "Odontología",
-            "year": 2021,
-            "amout": 9
-        },
-        {
-            "id": "6",
-            "title": "Odontología",
-            "year": 2022,
-            "amout": 7
+            "year": {
+                "2017": 14,
+                "2018": 3,
+                "2019": 4,
+                "2020": 1,
+                "2021": 9,
+                "2022": 7
+            }
         }
     ],
 
     "fpsi": [
         {
-            "id": "1",
+            "id": "17",
             "title": "Psicología",
-            "year": 2017,
-            "amout": 7
-        },
-        {
-            "id": "2",
-            "title": "Psicología",
-            "year": 2018,
-            "amout": 9
-        },
-        {
-            "id": "3",
-            "title": "Psicología",
-            "year": 2019,
-            "amout": 8
-        },
-        {
-            "id": "4",
-            "title": "Psicología",
-            "year": 2020,
-            "amout": 1
-        },
-        {
-            "id": "5",
-            "title": "Psicología",
-            "year": 2021,
-            "amout": 7
-        },
-        {
-            "id": "6",
-            "title": "Psicología",
-            "year": 2022,
-            "amout": 15
+            "year": {
+                "2017": 7,
+                "2018": 9,
+                "2019": 8,
+                "2020": 1,
+                "2021": 7,
+                "2022": 15
+            }
         }
     ]
 }

@@ -5,7 +5,7 @@ import { obtenerDatos } from './API.js';
 export function handleCLick(e) {
     e.preventDefault();
     window.location.href = '#grafica'
-
+    
     const datos = e.target.id;
     obtenerDatosAPI(datos);
 }
@@ -18,13 +18,29 @@ async function obtenerDatosAPI(datos) {
     let years = [];
     let amounts = [];
 
-    resultado.forEach(dato => {
-        const { id, year, amout, title } = dato;
 
-        years.push(year)
-        amounts.push(amout);
+    resultado.forEach(dato => {
+        const { year, title } = dato;
+
         titles = title;
+        Object.entries(year).forEach(([key, value]) => {
+            years.push(key);
+            amounts.push(value);
+        });
     });
+
+    console.log(years);
+    console.log(amounts);
+
+    // Agregando Botones
+    /*const divBotones = document.getElementById('btn_graficas') 
+    divBotones.classList.add('flex', 'justify-center', 'items-center', 'gap-8', 'mt-4');
+    divBotones.innerHTML = `
+        <button id="lae" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">${carrera[6][0]}</button>
+        <button id="lc" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">${carrera[6][1]}</button>
+        <button id="laf" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">${carrera[6][2]}</button>
+    `;*/    
+
 
     //Haciendo la grafica con los datos
     let chartDom = document.getElementById('contenedor');
@@ -96,5 +112,6 @@ async function obtenerDatosAPI(datos) {
     };
 
     option && myChart.setOption(option);
+
 }
 
