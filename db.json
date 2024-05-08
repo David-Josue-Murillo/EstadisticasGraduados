@@ -113,37 +113,37 @@
                 "2022": 39
             },
             "carreras": {
-                "legp":{
-                    "name": "Especialista en Gerencias Públicas",
+                "la":{
+                    "name": "Arquitectura",
                     "year": {
-                        "2017": 2,
-                        "2018": 2,
-                        "2019": 2,
-                        "2020": 1,
-                        "2021": 0,
-                        "2022": 0
-                    }
-                },
-                "lap":{
-                    "name": "Administración Pública",
-                    "year": {
-                        "2017": 4,
+                        "2017": 0,
                         "2018": 8,
-                        "2019": 1,
-                        "2020": 3,
-                        "2021": 11,
-                        "2022": 14
+                        "2019": 11,
+                        "2020": 1,
+                        "2021": 19,
+                        "2022": 21
                     }
                 },
-                "lts":{
-                    "name": "Trabajo Social",
+                "tda":{
+                    "name": "Técnico en Dibujo Arquitectónico",
                     "year": {
-                        "2017": 23,
-                        "2018": 24,
-                        "2019": 21,
-                        "2020": 4,
-                        "2021": 18,
-                        "2022": 19
+                        "2017": 13,
+                        "2018": 2,
+                        "2019": 4,
+                        "2020": 0,
+                        "2021": 4,
+                        "2022": 2
+                    }
+                },
+                "lrad":{
+                    "name": "Representación Arquitectónica y Digital", 
+                    "year": {
+                        "2017": 18,
+                        "2018": 4,
+                        "2019": 4,
+                        "2020": 1,
+                        "2021": 11,
+                        "2022": 16
                     }
                 }
             }
@@ -163,37 +163,37 @@
                 "2022": 3
             },
             "carreras": {
-                "legp":{
-                    "name": "Especialista en Gerencias Públicas",
+                "lmm":{
+                    "name": "Magister en Música",
                     "year": {
-                        "2017": 2,
-                        "2018": 2,
-                        "2019": 2,
-                        "2020": 1,
-                        "2021": 0,
+                        "2017": 0,
+                        "2018": 5,
+                        "2019": 3,
+                        "2020": 0,
+                        "2021": 1,
                         "2022": 0
                     }
                 },
-                "lap":{
-                    "name": "Administración Pública",
+                "lbaem":{
+                    "name": "Bellas Artes con Especialización en Música",
                     "year": {
-                        "2017": 4,
-                        "2018": 8,
-                        "2019": 1,
-                        "2020": 3,
-                        "2021": 11,
-                        "2022": 14
+                        "2017": 1,
+                        "2018": 5,
+                        "2019": 4,
+                        "2020": 1,
+                        "2021": 5,
+                        "2022": 2
                     }
                 },
-                "lts":{
-                    "name": "Trabajo Social",
+                "lmbaeat":{
+                    "name": "Magister en Bellas Artes con Énfasis en Actuación Teatral",
                     "year": {
-                        "2017": 23,
-                        "2018": 24,
-                        "2019": 21,
-                        "2020": 4,
-                        "2021": 18,
-                        "2022": 19
+                        "2017": 0,
+                        "2018": 0,
+                        "2019": 0,
+                        "2020": 0,
+                        "2021": 0,
+                        "2022": 1
                     }
                 }
             }
@@ -213,37 +213,37 @@
                 "2022": 7
             },
             "carreras": {
-                "legp":{
-                    "name": "Especialista en Gerencias Públicas",
+                "liaz":{
+                    "name": "Ingeniero Agronomo Zootecnista",
                     "year": {
-                        "2017": 2,
-                        "2018": 2,
-                        "2019": 2,
-                        "2020": 1,
+                        "2017": 1,
+                        "2018": 1,
+                        "2019": 1,
+                        "2020": 0,
                         "2021": 0,
                         "2022": 0
                     }
                 },
-                "lap":{
-                    "name": "Administración Pública",
+                "lcfdc":{
+                    "name": "Ciencias de la Familia y del Desarrollo Comunitario",
                     "year": {
-                        "2017": 4,
-                        "2018": 8,
+                        "2017": 10,
+                        "2018": 18,
                         "2019": 1,
-                        "2020": 3,
-                        "2021": 11,
-                        "2022": 14
+                        "2020": 0,
+                        "2021": 2,
+                        "2022": 3
                     }
                 },
-                "lts":{
-                    "name": "Trabajo Social",
+                "tsv":{
+                    "name": "Técnico en Sanidad Vegetal",
                     "year": {
-                        "2017": 23,
-                        "2018": 24,
-                        "2019": 21,
-                        "2020": 4,
-                        "2021": 18,
-                        "2022": 19
+                        "2017": 0,
+                        "2018": 1,
+                        "2019": 2,
+                        "2020": 0,
+                        "2021": 8,
+                        "2022": 4
                     }
                 }
             }
@@ -263,37 +263,37 @@
                 "2022": 244
             },
             "carreras": {
-                "legp":{
-                    "name": "Especialista en Gerencias Públicas",
+                "lceep":{
+                    "name": "Ciencias de la Educación con Énfasis en Preescolar",
                     "year": {
-                        "2017": 2,
-                        "2018": 2,
-                        "2019": 2,
+                        "2017": 29,
+                        "2018": 12,
+                        "2019": 4,
                         "2020": 1,
-                        "2021": 0,
-                        "2022": 0
+                        "2021": 1,
+                        "2022": 7
                     }
                 },
-                "lap":{
-                    "name": "Administración Pública",
+                "lpe":{
+                    "name": "Profesorado en Educación",
                     "year": {
-                        "2017": 4,
-                        "2018": 8,
-                        "2019": 1,
-                        "2020": 3,
-                        "2021": 11,
-                        "2022": 14
+                        "2017": 84,
+                        "2018": 92,
+                        "2019": 53,
+                        "2020": 9,
+                        "2021": 28,
+                        "2022": 54
                     }
                 },
-                "lts":{
-                    "name": "Trabajo Social",
+                "lpem":{
+                    "name": "Profesorado en Educación Media",
                     "year": {
-                        "2017": 23,
-                        "2018": 24,
-                        "2019": 21,
-                        "2020": 4,
-                        "2021": 18,
-                        "2022": 19
+                        "2017": 115,
+                        "2018": 110,
+                        "2019": 85,
+                        "2020": 19,
+                        "2021": 70,
+                        "2022": 93
                     }
                 }
             }
@@ -313,37 +313,37 @@
                 "2022": 22
             },
             "carreras": {
-                "legp":{
-                    "name": "Especialista en Gerencias Públicas",
+                "lboba":{
+                    "name": "Biología con Orientación en Biolología Animal",
                     "year": {
-                        "2017": 2,
+                        "2017": 5,
                         "2018": 2,
+                        "2019": 9,
+                        "2020": 1,
+                        "2021": 2,
+                        "2022": 2
+                    }
+                },
+                "lbobm":{
+                    "name": "Biología con Orientación en Biolología Marina",
+                    "year": {
+                        "2017": 7,
+                        "2018": 12,
                         "2019": 2,
                         "2020": 1,
-                        "2021": 0,
-                        "2022": 0
+                        "2021": 6,
+                        "2022": 9
                     }
                 },
-                "lap":{
-                    "name": "Administración Pública",
+                "lm":{
+                    "name": "Matemática",
                     "year": {
-                        "2017": 4,
-                        "2018": 8,
-                        "2019": 1,
-                        "2020": 3,
-                        "2021": 11,
-                        "2022": 14
-                    }
-                },
-                "lts":{
-                    "name": "Trabajo Social",
-                    "year": {
-                        "2017": 23,
-                        "2018": 24,
-                        "2019": 21,
-                        "2020": 4,
-                        "2021": 18,
-                        "2022": 19
+                        "2017": 6,
+                        "2018": 4,
+                        "2019": 3,
+                        "2020": 2,
+                        "2021": 1,
+                        "2022": 4
                     }
                 }
             }
@@ -363,37 +363,37 @@
                 "2022": 244
             },
             "carreras": {
-                "legp":{
-                    "name": "Especialista en Gerencias Públicas",
+                "lepc":{
+                    "name": "Eventos y Protocolo Corporativo",
+                    "year": {
+                        "2017": 2,
+                        "2018": 1,
+                        "2019": 20,
+                        "2020": 0,
+                        "2021": 4,
+                        "2022": 8
+                    }
+                },
+                "lp":{
+                    "name": "Periodismo",
                     "year": {
                         "2017": 2,
                         "2018": 2,
                         "2019": 2,
-                        "2020": 1,
-                        "2021": 0,
-                        "2022": 0
-                    }
-                },
-                "lap":{
-                    "name": "Administración Pública",
-                    "year": {
-                        "2017": 4,
-                        "2018": 8,
-                        "2019": 1,
-                        "2020": 3,
-                        "2021": 11,
-                        "2022": 14
+                        "2020": 0,
+                        "2021": 2,
+                        "2022": 3
                     }
                 },
                 "lts":{
-                    "name": "Trabajo Social",
+                    "name": "Relaciones Públicas",
                     "year": {
-                        "2017": 23,
-                        "2018": 24,
-                        "2019": 21,
-                        "2020": 4,
-                        "2021": 18,
-                        "2022": 19
+                        "2017": 2,
+                        "2018": 0,
+                        "2019": 2,
+                        "2020": 0,
+                        "2021": 2,
+                        "2022": 0
                     }
                 }
             }
@@ -413,37 +413,37 @@
                 "2022": 40
             },
             "carreras": {
-                "legp":{
-                    "name": "Especialista en Gerencias Públicas",
+                "ldcp":{
+                    "name": "Derechos y Ciencias Políticas",
                     "year": {
-                        "2017": 2,
-                        "2018": 2,
-                        "2019": 2,
-                        "2020": 1,
-                        "2021": 0,
+                        "2017": 20,
+                        "2018": 19,
+                        "2019": 30,
+                        "2020": 3,
+                        "2021": 24,
+                        "2022": 40
+                    }
+                },
+                "ldedp":{
+                    "name": "Derecho en Énfasis en Derecho Procesal",
+                    "year": {
+                        "2017": 8,
+                        "2018": 4,
+                        "2019": 1,
+                        "2020": 0,
+                        "2021": 18,
                         "2022": 0
                     }
                 },
-                "lap":{
-                    "name": "Administración Pública",
+                "tis":{
+                    "name": "Técnico en Instrucción Sumarial",
                     "year": {
-                        "2017": 4,
-                        "2018": 8,
+                        "2017": 0,
+                        "2018": 0,
                         "2019": 1,
-                        "2020": 3,
-                        "2021": 11,
-                        "2022": 14
-                    }
-                },
-                "lts":{
-                    "name": "Trabajo Social",
-                    "year": {
-                        "2017": 23,
-                        "2018": 24,
-                        "2019": 21,
-                        "2020": 4,
-                        "2021": 18,
-                        "2022": 19
+                        "2020": 0,
+                        "2021": 1,
+                        "2022": 0
                     }
                 }
             }
@@ -462,37 +462,37 @@
                 "2022": 53
             },
             "carreras": {
-                "legp":{
-                    "name": "Especialista en Gerencias Públicas",
+                "le":{
+                    "name": "Economía",
                     "year": {
-                        "2017": 2,
-                        "2018": 2,
-                        "2019": 2,
+                        "2017": 10,
+                        "2018": 15,
+                        "2019": 5,
                         "2020": 1,
+                        "2021": 4,
+                        "2022": 13
+                    }
+                },
+                "lees":{
+                    "name": "Estadística Economica y Social",
+                    "year": {
+                        "2017": 0,
+                        "2018": 2,
+                        "2019": 3,
+                        "2020": 0,
                         "2021": 0,
                         "2022": 0
                     }
                 },
-                "lap":{
-                    "name": "Administración Pública",
-                    "year": {
-                        "2017": 4,
-                        "2018": 8,
-                        "2019": 1,
-                        "2020": 3,
-                        "2021": 11,
-                        "2022": 14
-                    }
-                },
-                "lts":{
-                    "name": "Trabajo Social",
+                "lfb":{
+                    "name": "Finanzas y Banca",
                     "year": {
                         "2017": 23,
-                        "2018": 24,
-                        "2019": 21,
-                        "2020": 4,
-                        "2021": 18,
-                        "2022": 19
+                        "2018": 30,
+                        "2019": 31,
+                        "2020": 3,
+                        "2021": 11,
+                        "2022": 40
                     }
                 }
             }
@@ -512,37 +512,37 @@
                 "2022": 38
             },
             "carreras": {
-                "legp":{
-                    "name": "Especialista en Gerencias Públicas",
+                "leep":{
+                    "name": "Especialista en Enfermería Pediátrica",
                     "year": {
-                        "2017": 2,
-                        "2018": 2,
-                        "2019": 2,
-                        "2020": 1,
+                        "2017": 1,
+                        "2018": 1,
+                        "2019": 0,
+                        "2020": 0,
                         "2021": 0,
                         "2022": 0
                     }
                 },
-                "lap":{
-                    "name": "Administración Pública",
+                "lenf":{
+                    "name": "Enfermería",
                     "year": {
-                        "2017": 4,
-                        "2018": 8,
-                        "2019": 1,
-                        "2020": 3,
-                        "2021": 11,
-                        "2022": 14
+                        "2017": 77,
+                        "2018": 55,
+                        "2019": 94,
+                        "2020": 48,
+                        "2021": 27,
+                        "2022": 38
                     }
                 },
-                "lts":{
-                    "name": "Trabajo Social",
+                "tenf":{
+                    "name": "Técnico en Enfermería",
                     "year": {
-                        "2017": 23,
-                        "2018": 24,
-                        "2019": 21,
-                        "2020": 4,
-                        "2021": 18,
-                        "2022": 19
+                        "2017": 1,
+                        "2018": 0,
+                        "2019": 1,
+                        "2020": 0,
+                        "2021": 1,
+                        "2022": 0
                     }
                 }
             }
@@ -562,37 +562,37 @@
                 "2022": 64
             },
             "carreras": {
-                "legp":{
-                    "name": "Especialista en Gerencias Públicas",
+                "lfarm":{
+                    "name": "Farmacia",
                     "year": {
                         "2017": 2,
-                        "2018": 2,
-                        "2019": 2,
-                        "2020": 1,
+                        "2018": 0,
+                        "2019": 21,
+                        "2020": 9,
+                        "2021": 2,
+                        "2022": 24
+                    }
+                },
+                "mfceee":{
+                    "name": "Magister en Farmacia Clinica con Énfasis en la Enseñanza del Español",
+                    "year": {
+                        "2017": 1,
+                        "2018": 0,
+                        "2019": 3,
+                        "2020": 0,
                         "2021": 0,
                         "2022": 0
                     }
                 },
-                "lap":{
-                    "name": "Administración Pública",
+                "tfarm":{
+                    "name": "Técnico en Farmacia",
                     "year": {
-                        "2017": 4,
-                        "2018": 8,
-                        "2019": 1,
-                        "2020": 3,
-                        "2021": 11,
-                        "2022": 14
-                    }
-                },
-                "lts":{
-                    "name": "Trabajo Social",
-                    "year": {
-                        "2017": 23,
-                        "2018": 24,
-                        "2019": 21,
+                        "2017": 33,
+                        "2018": 25,
+                        "2019": 27,
                         "2020": 4,
-                        "2021": 18,
-                        "2022": 19
+                        "2021": 39,
+                        "2022": 40
                     }
                 }
             }
@@ -612,37 +612,37 @@
                 "2022": 161
             },
             "carreras": {
-                "legp":{
-                    "name": "Especialista en Gerencias Públicas",
+                "lheef":{
+                    "name": "Humanidades con Especialización en Educación Física", 
                     "year": {
-                        "2017": 2,
-                        "2018": 2,
-                        "2019": 2,
-                        "2020": 1,
-                        "2021": 0,
-                        "2022": 0
+                        "2017": 13,
+                        "2018": 18,
+                        "2019": 4,
+                        "2020": 2,
+                        "2021": 13,
+                        "2022": 20
                     }
                 },
-                "lap":{
-                    "name": "Administración Pública",
+                "lhei":{
+                    "name": "Humanidades con Especialización en Inglés",
                     "year": {
-                        "2017": 4,
-                        "2018": 8,
-                        "2019": 1,
-                        "2020": 3,
-                        "2021": 11,
-                        "2022": 14
+                        "2017": 36,
+                        "2018": 31,
+                        "2019": 58,  
+                        "2020": 0,
+                        "2021": 46,
+                        "2022": 48
                     }
                 },
-                "lts":{
-                    "name": "Trabajo Social",
+                "lhegh":{
+                    "name": "Humanidades con Especialización en Geografía E Historia",
                     "year": {
-                        "2017": 23,
-                        "2018": 24,
-                        "2019": 21,
-                        "2020": 4,
-                        "2021": 18,
-                        "2022": 19
+                        "2017": 21,
+                        "2018": 5,
+                        "2019": 4,
+                        "2020": 2,
+                        "2021": 9,
+                        "2022": 31
                     }
                 }
             }
@@ -662,37 +662,37 @@
                 "2022": 11
             },
             "carreras": {
-                "legp":{
-                    "name": "Especialista en Gerencias Públicas",
+                "ligee":{
+                    "name": "Informática para la Gestión Educativa y Empresarial",
+                    "year": {
+                        "2017": 4,
+                        "2018": 3,
+                        "2019": 4,
+                        "2020": 0,
+                        "2021": 0,
+                        "2022": 3
+                    }
+                },
+                "lii":{
+                    "name": "Ingenieria en Informática",
                     "year": {
                         "2017": 2,
                         "2018": 2,
-                        "2019": 2,
-                        "2020": 1,
+                        "2019": 1,
+                        "2020": 0,
                         "2021": 0,
                         "2022": 0
                     }
                 },
-                "lap":{
-                    "name": "Administración Pública",
+                "tie":{
+                    "name": "Técnico en Informática Educativa",
                     "year": {
-                        "2017": 4,
-                        "2018": 8,
-                        "2019": 1,
-                        "2020": 3,
-                        "2021": 11,
-                        "2022": 14
-                    }
-                },
-                "lts":{
-                    "name": "Trabajo Social",
-                    "year": {
-                        "2017": 23,
-                        "2018": 24,
-                        "2019": 21,
-                        "2020": 4,
-                        "2021": 18,
-                        "2022": 19
+                        "2017": 9,
+                        "2018": 14,
+                        "2019": 10,
+                        "2020": 2,
+                        "2021": 16,
+                        "2022": 8
                     }
                 }
             }
@@ -712,37 +712,26 @@
                 "2022": 1
             },
             "carreras": {
-                "legp":{
-                    "name": "Especialista en Gerencias Públicas",
+                "lrim":{
+                    "name": "Radiología E Imágenes Médicas",
                     "year": {
-                        "2017": 2,
-                        "2018": 2,
-                        "2019": 2,
-                        "2020": 1,
+                        "2017": 0,
+                        "2018": 0,
+                        "2019": 0,
+                        "2020": 0,
+                        "2021": 0,
+                        "2022": 1
+                    }
+                },
+                "tao":{
+                    "name": "Técnico en Asistencia Odontologica",
+                    "year": {
+                        "2017": 1,
+                        "2018": 0,
+                        "2019": 0,
+                        "2020": 0,
                         "2021": 0,
                         "2022": 0
-                    }
-                },
-                "lap":{
-                    "name": "Administración Pública",
-                    "year": {
-                        "2017": 4,
-                        "2018": 8,
-                        "2019": 1,
-                        "2020": 3,
-                        "2021": 11,
-                        "2022": 14
-                    }
-                },
-                "lts":{
-                    "name": "Trabajo Social",
-                    "year": {
-                        "2017": 23,
-                        "2018": 24,
-                        "2019": 21,
-                        "2020": 4,
-                        "2021": 18,
-                        "2022": 19
                     }
                 }
             }
@@ -761,41 +750,7 @@
                 "2021": 9,
                 "2022": 7
             },
-            "carreras": {
-                "legp":{
-                    "name": "Especialista en Gerencias Públicas",
-                    "year": {
-                        "2017": 2,
-                        "2018": 2,
-                        "2019": 2,
-                        "2020": 1,
-                        "2021": 0,
-                        "2022": 0
-                    }
-                },
-                "lap":{
-                    "name": "Administración Pública",
-                    "year": {
-                        "2017": 4,
-                        "2018": 8,
-                        "2019": 1,
-                        "2020": 3,
-                        "2021": 11,
-                        "2022": 14
-                    }
-                },
-                "lts":{
-                    "name": "Trabajo Social",
-                    "year": {
-                        "2017": 23,
-                        "2018": 24,
-                        "2019": 21,
-                        "2020": 4,
-                        "2021": 18,
-                        "2022": 19
-                    }
-                }
-            }
+            "carreras": {}
         }
     ],
 
@@ -812,37 +767,37 @@
                 "2022": 15
             },
             "carreras": {
-                "legp":{
-                    "name": "Especialista en Gerencias Públicas",
+                "lpsico":{
+                    "name": "Psicología",
                     "year": {
-                        "2017": 2,
-                        "2018": 2,
+                        "2017": 6,
+                        "2018": 6,
+                        "2019": 4,
+                        "2020": 0,
+                        "2021": 6,
+                        "2022": 13
+                    }
+                },
+                "mpsc":{
+                    "name": "Magister en Psicología Clínica",
+                    "year": {
+                        "2017": 1,
+                        "2018": 3,
                         "2019": 2,
                         "2020": 1,
                         "2021": 0,
                         "2022": 0
                     }
                 },
-                "lap":{
-                    "name": "Administración Pública",
+                "mpses":{
+                    "name": "Magister en Psicología Escolar",
                     "year": {
-                        "2017": 4,
-                        "2018": 8,
-                        "2019": 1,
-                        "2020": 3,
-                        "2021": 11,
-                        "2022": 14
-                    }
-                },
-                "lts":{
-                    "name": "Trabajo Social",
-                    "year": {
-                        "2017": 23,
-                        "2018": 24,
-                        "2019": 21,
-                        "2020": 4,
-                        "2021": 18,
-                        "2022": 19
+                        "2017": 0,
+                        "2018": 0,
+                        "2019": 2,
+                        "2020": 0,
+                        "2021": 1,
+                        "2022": 2
                     }
                 }
             }

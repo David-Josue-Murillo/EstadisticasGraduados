@@ -1,5 +1,6 @@
 import * as echarts from 'echarts';
 import { obtenerDatos } from './API.js';
+import { handleComparar } from './comparar.js';
 
 const subGraficas = document.getElementById('subGraficas');
 
@@ -10,8 +11,16 @@ export const handleBtn = (e) => {
 
     const datos = e.target.name;
     const idCarrera = e.target.id;
-
     obtenerDatosAPI(datos, idCarrera);
+
+    
+    const btnComparar = document.getElementById('btn_Comparar');
+    btnComparar.classList.add('flex', 'justify-center', 'items-center', 'gap-8', 'mt-8');
+    btnComparar.innerHTML = `
+        <input type="button" id="${datos}" class="bg-blue-500 uppercase hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" value="Comparar">
+    `;
+
+    btnComparar.addEventListener('click', handleComparar);
 };
 
 // Obteniendo API
@@ -45,7 +54,7 @@ const obtenerDatosAPI = async (datos, idCarrera) => {
 
     option = {
         title: {
-            text: `          Licenciados en ${title}`
+            text: `          Licenciatura en ${title}`
         },
         tooltip: {
             trigger: 'axis',

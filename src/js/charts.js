@@ -127,4 +127,3 @@ async function obtenerDatosAPI(datos) {
 
     option && myChart.setOption(option);
 }
-
