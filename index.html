@@ -49,108 +49,108 @@
         </header>
 
         <!-- Contenido de la pagina -->
-        <main class="flex justify-center place-content-center mt-10">
-            <div class="flex flex-wrap items-center text-center mr-5 w-1/4">
-                <h1 class="text-family text-green-cane  text-shadow-white text-7xl">Graficos de <span class="text-white text-shadow-greenCane">Graduados</span></h1>
+        <main class="flex flex-col mt-28 md:flex md:flex-row md:justify-center md:place-content-center md:mt-10">
+            <div class="md:flex md:flex-wrap items-center text-center md:mr-5 md:w-1/4">
+                <h1 class="text-2xl text-family text-green-cane  text-shadow-white md:text-7xl">Graficos de <span class="text-white text-shadow-greenCane">Graduados</span></h1>
             </div>
-            <div class="w-[700px] h-[450px] ml-10 border border-green-700 rounded-2xl" id="graficaGeneral">
+            <div class="w-[95%] h-64 m-auto md:m-0 mt-4 md:w-[700px] md:h-[450px] md:ml-10 border border-green-700 rounded-2xl" id="graficaGeneral">
             </div>
         </main>
 
         <!-- Gráficas por facultad -->
-        <section class="flex flex-col w-full gap-2 mt-20 mb-20">
+        <section class="flex flex-col w-full md:gap-2 my-5 md:my-20">
             <header class="w-full text-center">
-                <h2 class="text-family text-7xl text-green-cane" id="facultad">Facultades</h2>
+                <h2 class="text-family text-2xl md:text-7xl text-green-cane" id="facultad">Facultades</h2>
             </header>
 
-            <!-- Creando un slider -->
+            <!-- Logos de las facultades -->
             <nav class="flex flex-col justify-center gap-4 mt-5 w-full">
-                <div class="flex w-full justify-center gap-4 px-20">
-                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                <div class="flex flex-row flex-wrap w-full justify-center gap-4 md:flex-nowrap md:px-20">
+                    <section class="w-2/6 md:w-1/6 md:px-5 md:h-full cursor-pointer">
                         <div class="bg-white hover:bg-green-300 border rounded-[150%]">
                             <a href=""><img id="fce" class="w-full h-full hover:scale-[1.1]" src="./src/img/Log_Fce.png" alt=""></a>
                         </div>
                     </section>
-                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                    <section class="w-2/6 md:w-1/6 md:px-5 md:h-full cursor-pointer">
                         <div class="bg-white hover:bg-green-300 border rounded-[50%]">
                             <a href=""><img id="fad" class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fad.png" alt=""></a>
                         </div>
                     </section>
-                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                    <section class="w-2/6 md:w-1/6 md:px-5 md:h-full cursor-pointer">
                         <div class="bg-white hover:bg-green-300 border rounded-[50%]">
                             <a href=""><img id="face" class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Face.png" alt=""></a>
                         </div>
                     </section>
-                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                    <section class="w-2/6 md:w-1/6 md:px-5 md:h-full cursor-pointer">
                         <a href=""><img id="faeco" class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Faeco.gif" alt=""></a>
                     </section>
-                    <section class="w-1/6 px-5 h-full  cursor-pointer">
+                    <section class="w-2/6 md:w-1/6 md:px-5 md:h-full  cursor-pointer">
                         <div class="bg-white hover:bg-green-300 border rounded-[50%]">
                             <a href=""><img id="fah" class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fah.png" alt=""></a>
                         </div>
                     </section>
-                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                    <section class="w-2/6 md:w-1/6 md:px-5 md:h-full cursor-pointer">
                         <div class="bg-white hover:bg-green-300 border rounded-[50%]">
                             <a href=""><img id="fbea" class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fbea.png" alt=""></a>
                         </div>
                     </section>
                 </div>
 
-                <div class="flex w-full justify-center items-center gap-4 px-20">
-                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                <div class="flex flex-row flex-wrap w-full justify-center gap-4 md:flex-nowrap md:px-20">
+                    <section class="w-2/6 md:w-1/6 md:px-5 md:h-full cursor-pointer">
                         <div class="bg-white hover:bg-green-300 border rounded-[50%]">
                             <a href=""><img id="fca" class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fca.png" alt=""></a>
                         </div>
                     </section>
-                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                    <section class="w-2/6 md:w-1/6 md:px-5 md:h-full cursor-pointer">
                         <div class="bg-white hover:bg-green-300 border rounded-[50%]">
                             <a href=""><img id="fcso" class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fcso.png" alt=""></a>
                         </div>
                     </section>
-                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                    <section class="w-2/6 md:w-1/6 md:px-5 md:h-full cursor-pointer">
                         <div class="bg-white hover:bg-green-300 border rounded-[50%]">
                             <a href=""><img id="fdcp" class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fdcp.png" alt=""></a>
                         </div>
                     </section>
-                    <section class="w-1/6 px-5 h-full cursor-pointer">
-                        <div class="bg-white hover:bg-green-300 border rounded-[50%] h-[170px]">
+                    <section class="w-2/6 md:w-1/6 md:px-5 md:h-full cursor-pointer">
+                        <div class="bg-white hover:bg-green-300 border rounded-[50%]">
                             <a href=""><img id="feap" class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_FEAP.png" alt=""></a>
                         </div>
                     </section>
-                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                    <section class="w-2/6 md:w-1/6 md:px-5 md:h-full cursor-pointer">
                         <div class="bg-white hover:bg-green-300 border rounded-[50%]">
                             <a href=""><img id="fcnet" class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fcnet.png" alt=""></a>
                         </div>
                     </section>
                 </div>
 
-                <div class="flex w-full justify-center gap-4 px-20">
-                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                <div class="flex flex-row flex-wrap w-full justify-center gap-4 md:flex-nowrap md:px-20">
+                    <section class="w-2/6 md:w-1/6 md:px-5 md:h-full cursor-pointer">
                         <div class="bg-white hover:bg-green-300 border rounded-[50%]">
                             <a href=""><img id="fenf" class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fenf.png" alt=""></a>
                         </div>
                     </section>
-                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                    <section class="w-2/6 md:w-1/6 md:px-5 md:h-full cursor-pointer">
                         <div class="bg-white hover:bg-green-300 border rounded-[50%]">
                             <a href=""><img id="ffarm" class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Ffarm.png" alt=""></a>
                         </div>
                     </section>
-                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                    <section class="w-2/6 md:w-1/6 md:px-5 md:h-full cursor-pointer">
                         <div class="bg-white hover:bg-green-300 border rounded-[50%]">
                             <a href=""><img id="fmed" class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fmed.png" alt=""></a>
                         </div>
                     </section>
-                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                    <section class="w-2/6 md:w-1/6 md:px-5 md:h-full cursor-pointer">
                         <div class="bg-white hover:bg-green-300 border rounded-[50%]">
                             <a href=""><img id="fiec" class="w-full h-full hover:scale-[1.1]" src="./src/img/logoFiec.png" alt=""></a>
                         </div>
                     </section>
-                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                    <section class="w-2/6 md:w-1/6 md:px-5 md:h-full cursor-pointer">
                         <div class="bg-white hover:bg-green-300 border rounded-[50%]">
                             <a href=""><img id="fodon" class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fodon.png" alt=""></a>
                         </div>
                     </section>
-                    <section class="w-1/6 px-5 h-full cursor-pointer">
+                    <section class="w-2/6 md:w-1/6 md:px-5 md:h-full cursor-pointer">
                         <div class="bg-white hover:bg-green-300 border rounded-[50%]">
                             <a href=""><img id="fpsi" class="w-full h-full hover:scale-[1.1]" src="./src/img/Logo_Fpsi.png" alt=""></a>
                         </div>
@@ -160,20 +160,20 @@
         </section>
 
         <section class="flex flex-col m-auto justify-center mt-10 mb-20 ">
-            <div class="mb-5 text-center">
-                <h2 class="text-family text-7xl text-green-cane" id="grafica">Graficos</h2>
+            <div class="mb-2 md:mb-5 text-center">
+                <h2 class="text-family text-3xl md:text-7xl text-green-cane" id="grafica">Graficos</h2>
             </div>
 
-            <div class="w-full" id="btn_graficas">
+            <div class="w-[80%] m-auto md:m-0 md:w-full" id="btn_graficas">
 
             </div>
 
-            <div class="w-[800px] h-[400px] border-2 border-fuchsia-950 mt-5 flex items-center justify-center" id="contenedor">
-                <h1 class="text-white text-4xl w-1/2 text-center font-bold font-bree]">Haz Click en una <span class="text-green-cane">Facultad</span> para ver su gráfica</h1>
+            <div class="w-[95%] h-64 m-auto md:w-[800px] md:h-[400px] border-2 border-fuchsia-950 mt-5 flex items-center justify-center" id="contenedor">
+                <h1 class="text-white text-xl md:text-4xl md:w-1/2 text-center font-bold font-bree]">Haz Click en una <span class="text-green-cane">Facultad</span> para ver su gráfica</h1>
             </div>
 
-            <div id="subGraficas"></div>
-            <div id="compGrafica"></div>
+            <div class="w-[95%] h-64 m-auto md:m-0 md:mt-10" id="subGraficas"></div>
+            <div class="w-[95%] h-64 m-auto md:m-0 md:mt-10" id="compGrafica"></div>
             <div id="btn_Comparar"></div>
         </section>
     </div>

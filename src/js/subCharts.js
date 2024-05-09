@@ -6,7 +6,7 @@ const subGraficas = document.getElementById('subGraficas');
 
 export const handleBtn = (e) => {
     
-    subGraficas.classList.add('flex', 'justify-center', 'items-center', 'gap-8', 'mt-8', 'w-[800px]', 'h-[400px]', 'border-2', 'border-fuchsia-950');
+    subGraficas.classList.add('w-[95%]', 'h-64', 'm-auto', 'mt-5' ,'md:flex', 'md:justify-center', 'md:items-center', 'md:gap-8', 'md:mt-8', 'md:w-[800px]', 'md:h-[400px]', 'border-2', 'border-fuchsia-950');
     window.location.href = '#subGraficas';
 
     const datos = e.target.name;
